@@ -4,7 +4,7 @@ abcdefghijklmnopqurtuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 1234567890
 
-Ha HaHa
+Ha HaHa             
 
 cat
 mat
@@ -26,3 +26,7 @@ Mr Veratti
 Ms Davis
 Mrs. Pessi
 Mr. T
+
+1234
+
+1-4
