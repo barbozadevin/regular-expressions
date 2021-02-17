@@ -9,7 +9,7 @@ Ha HaHa
 cat
 mat
 bat
-hat
+hat             
 
 MetaCharacters (Need to be escaped):
 .[{()\^$|?*+
@@ -18,9 +18,11 @@ coreyms.com
 
 321-555-4321
 123.555.1234
+800*123*5678
+900*456*0987
 
-Mr. Schafer
-Mr Smith
+Mr. Mbappe
+Mr Veratti
 Ms Davis
-Mrs. Robinson
+Mrs. Pessi
 Mr. T
